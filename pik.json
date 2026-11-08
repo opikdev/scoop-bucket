@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/opikdev/starters/releases/download/v0.1.0/pik_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/opikdev/starters/releases/download/v0.1.1/pik_0.1.1_windows_amd64.zip",
             "bin": [
                 "pik.exe"
             ],
-            "hash": "4f425f1d5d6c1384ef59172b9a51680b3ed332bcb50fb39d1e938881e4f24037"
+            "hash": "d21be6589a67ff18b84dabd642596f7fcb1836f6472450ffa412ca024b3dc2dd"
         },
         "arm64": {
-            "url": "https://github.com/opikdev/starters/releases/download/v0.1.0/pik_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/opikdev/starters/releases/download/v0.1.1/pik_0.1.1_windows_arm64.zip",
             "bin": [
                 "pik.exe"
             ],
-            "hash": "2204f047fd4c062b4a6447ef0f76e6c96d0fad5d13c4dc20e74a9bbbf1e43deb"
+            "hash": "156a7d1c8322c7e14005e3a8614cdd9ae8a251c8855c453020ddbadc60fe0df6"
         }
     },
     "homepage": "https://github.com/opikdev/starters",
