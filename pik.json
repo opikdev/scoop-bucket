@@ -1,22 +1,22 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/opikdev/starters/releases/download/v0.1.1/pik_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/opikdev/pik/releases/download/v0.2.0/pik_0.2.0_windows_amd64.zip",
             "bin": [
                 "pik.exe"
             ],
-            "hash": "d21be6589a67ff18b84dabd642596f7fcb1836f6472450ffa412ca024b3dc2dd"
+            "hash": "8ec019e52c288e3720134cfb825e4131003981a2c33f5744f4bc24de7d84e6ef"
         },
         "arm64": {
-            "url": "https://github.com/opikdev/starters/releases/download/v0.1.1/pik_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/opikdev/pik/releases/download/v0.2.0/pik_0.2.0_windows_arm64.zip",
             "bin": [
                 "pik.exe"
             ],
-            "hash": "156a7d1c8322c7e14005e3a8614cdd9ae8a251c8855c453020ddbadc60fe0df6"
+            "hash": "86266963e54191cd577dea9a9a74dd240eff1cc44188c43b7236c52b201a1e40"
         }
     },
-    "homepage": "https://github.com/opikdev/starters",
+    "homepage": "https://github.com/opikdev/pik",
     "license": "MIT",
     "description": "Create projects from agent-ready starter templates"
 }
